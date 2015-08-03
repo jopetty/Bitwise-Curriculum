@@ -25,14 +25,13 @@ Throughout each lesson there will be a core topic such as "What is a Computer" o
 * [ ] *Troubleshooting (optional)*
 * [ ] *Scheduling (if taking in a classroom setting)*
 
-### What is Computer Science?
-According to a quick Google search, Computer Science is defined as the following:
-```
-computer science (noun): the study of the principles and use of computers
-```
+### What Is Computer Science?
+According to a quick Google search<sup>[1]</sup>, computer science is defined as the following:
+
+>computer science (noun): the study of the principles and use of computers
+
 As you might suspect, this is a perfectly valid definition. It is not, however, the *only* definition. While unsurprisingly computer science does have a lot to do with the use of computers, it also has to do with how those computers work, and why they work in the way that they do. It has to do with how those computers came to be, and why they were first created. It has to do with the mathematics and design of computer systems, from the chip in a digital watch to the most powerful supercomputing clusters. It has to do with the impacts computers have influenced our day to day lives and the ways we interact with them. Perhaps most importantly, computer science has to do with the way computers will change in the future, and the philosophical, ethical, and technological implications those changes will bring.Computer science is not limited in scope to just learning how to program.
 
 Consider for a moment that for much of the 20th century, the idea that a fully functional computer could fit inside your pocket would have been considered a piece of science fiction, and an unbelievable one at that. In those days, writing a program had less to do with learning the words that a particular programming language used and a whole lot more to do with punching holes in a very long strip of paper. Back then, computers were not a very large part of most peoples' daily routine. Today, we find computers in our watches, phones, refrigerators, and cars. They are in the satellites that orbit above our heads and in the giant server farms that we call 'The Cloud'. In this sense, the very idea of what a computer is or can be has changed, and will continue to change, as time goes on. With this in mind, a more holistic definition of what computer science is can be formed.
-```
-Computer science is the study of the history, use, design, function, and change of computers. It encompasses the technological, scientific, economic, and moral implications of the advancement of computers as well as the understanding of the people, principles, and ideas that have shaped their development.
-```
+
+> Computer science is the study of the history, use, design, function, and change of computers.  It encompasses the technological, scientific, economic, and moral implications of the advancement of computers as well as the understanding of the people, principles, and ideas that have shaped their development.
