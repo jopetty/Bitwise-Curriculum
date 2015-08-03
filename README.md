@@ -10,7 +10,7 @@
 * Incorporate interdisciplinary themes into a Computer Science foundation to synthesize knowledge of Physics, Mathematics, Art, Philosophy, Ethics, Literature, Economics, etc
 * Work with students to hone their skills in preparation for competitive events and real world applications of their knowledge
 * Show how an understanding of Computer Science can be beneficial in terms of employment and job security
-* Introduce the concepts of Open Source, FOSS, Linux/*NIX systems, Internet security and safety, Version Control, etc
+* Introduce the concepts of Open Source, FOSS, Linux/UNIX systems, Internet security and safety, Version Control, etc
 * Build upon the platforms of Hour of Code and Code Academy to provide a year long, structured environment for students to learn about topics in Computer Science
 
 ## Resources
