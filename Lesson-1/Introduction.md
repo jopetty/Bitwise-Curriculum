@@ -90,6 +90,7 @@ Each lesson will end with a recap. This is when you go over the objectives for t
 * [ ] Have you fixed any issues that arose during the computer setup?
 
 If you have all of these tasks finished, congratulations! You just finished the first lesson in the Bitwise Computer Science Curriculum. We hope to see you next week!
+
 ---
 <sup>[1]</sup> [computer science definiton](https://www.google.com/search?q=computer+science) (from Google)
 
