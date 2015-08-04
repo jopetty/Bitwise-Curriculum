@@ -78,3 +78,15 @@ For example, ```Installing Python Windows 8```. This should help you find answer
 
 #### A Note on Privileges and Permissions
 It may be the case that your account is not allowed to preform certain tasks like installing new software or running a terminal/command prompt. If this is the case, see if you can contact your computer's administrator (maybe a parent or teacher) and see if they can change this for you. If not, it will be very difficult to continue with this course as you will need some software in order to follow along with the lessons. Feel free to read through, but try and get access to a computer where you can use the necessary software.
+
+### Recap
+Each lesson will end with a recap. This is when you go over the objectives for the lesson to make sure if you understand them. If you're not quite done with the lesson yet, or you are still working on a task before you move on, don't sweat it! Go over what you can, and come back to it as you complete the assignments.
+
+* [ ] Do you know your instructor and classmates a little bit better? (If you are taking the cpurse in a classroom seetting)
+* [ ] Can you define, in your own words what computer science is?
+* [ ] Do you have some ideas about why you want to learn about computer science and what you want to get out of it?
+* [ ] Is your computer ready to go to begin the next lesson?
+* [ ] Do you have a good idea of the pacing of the coming lessons?
+* [ ] Have you fixed any issues that arose during the computer setup?
+
+If you have all of these tasks finished, congratulations! You just finished the first lesson in the Bitwise Computer Science Curriculum. We hope to see you next week!
