@@ -57,4 +57,4 @@ If so, excellent! You have completed Lesson 02! If you want to learn more about 
 * [Veritasium’s explanation](https://www.youtube.com/watch?v=IcrBqCFLHIY) for how a transistor works - a more in-depth lesson specifically on transistors.
 
 ## Notes
-<sup>1</sup> - For the official report on the soldier-crab computer, see [The Robust Soldier Crab Ball Gate (PDF)](http://www.complex-systems.com/pdf/20-2-2.pdf) by Yukio-Pegio Gunji, Yuta Nishiyama, and Andrew Adamatzky.
+<sup>1</sup> - For the official report on the soldier crab computer, see [The Robust Soldier Crab Ball Gate (PDF)](http://www.complex-systems.com/pdf/20-2-2.pdf) by Yukio-Pegio Gunji, Yuta Nishiyama, and Andrew Adamatzky.
