@@ -35,7 +35,7 @@ All personal computers are made of smaller, specialized components which are use
 
 It’s important to recognize the distinction between memory and storage. Storage is long term, and holds any data that you want to be permanent. Memory is only used when you are using your computer. For example, the programs and applications on your computer are in storage. When you run a program it is loaded into your memory so that you can use it. Most memory is volatile, meaning that it needs power in order to retain data. Once that power is removed, the memory is wiped. In contrast, storage doesn’t require power tor retain data, which is helpful every time you turn your computer off or unplug a flash drive.
 
-## Hardware and Software
+#### Hardware and Software
 Up until this point, we have mostly dealt with the hardware components of a computer. Hardware refers to the physical elements of a computer, like the CPU and RAM. The other main element of a computer is its software; the set of instructions that run on the computers hardware. Think of the hardware as an instrument, and the software as sheet music. The sheet music is played by the user on the instrument in a similar way to how software is run on hardware.
 
 Just like there are different types of hardware that make up a computer, there are also different types of software. 
