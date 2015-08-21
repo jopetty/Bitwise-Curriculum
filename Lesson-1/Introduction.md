@@ -66,6 +66,15 @@ Where X.X.XX is the version number. Make a note of whether this begins with a 3 
 
 If you do not have Python installed, you will get an error message. If this is the case, you will need to install Python from the [Python website](https://wiki.python.org/moin/BeginnersGuide/Download). It is recommended that you download and install Python 3. For more in depth instructions on how to install, consult your teacher or find tutorials on the Python website.
 
+#### Installing Atom
+Aside from Python, you will also need a text editor to edit the code you will be writing. Most computers will come with a basic text editor already installed, like Notepad or TextEdit. While you can use these to develop software, it is easier to use an editor designed for writing software. These editors offer useful features like automatically indenting different lines of code, providing a folder view so you can see multiple files, and changing the color of the text based on a programming language's syntax. There are many options for choosing a good editor, but this course recommends [Atom](https://atom.io/) for several reasons.
+
+1. Atom is open source - this means that it is free for anyone to use.
+2. Atom is cross platform software - it will run on most computers.
+3. Atom is feature-rich - you can install themes and small pieces of software within atom to improve usability and performance.
+
+To install Atom, go to [atom.io](https://atom.io) and click the download button. Extract or run the downloaded file to complete the installation.
+
 ### Scheduling
 If you are taking this course as a class, it is likely that you will be doing so in weekly classes. If you are following along on your own, that's great too! It is recommended that you still stick to the weekly schedule of the lessons. They are spaced out for several reasons. First, it's good to learn this skill over time. Refreshing yourself every week on what you have already learned will make the knowledge stick. Second, we want you to work on your lesson over the whole week, not just during the time you attend class or read the lesson information. Not only will you retain more content, you will also get more practice! Some of the tasks for each lesson may require an extended bit of time to complete, so work on them during the rest of the week. If you finish early, see if you can find ways to add to or improve what you have made. In the long run, it will help you.
 
